@@ -8262,7 +8262,7 @@ fieldset:disabled .btn {
 }
 
 .mb-4 {
-    margin-bottom: 1.5rem !important
+    margin-bottom: 1.5rem !important;
 }
 
 .mb-5 {
@@ -8586,7 +8586,8 @@ fieldset:disabled .btn {
 }
 
 .text-capitalize {
-    text-transform: capitalize !important
+    text-transform: capitalize !important;
+    color: #ff5b03 ;
 }
 
 .text-wrap {
