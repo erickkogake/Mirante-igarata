@@ -8526,7 +8526,13 @@ fieldset:disabled .btn {
 }
 
 .fw-bold {
-    font-weight: 700 !important
+    font-weight: 700 !important;
+    color: #2b4060;
+}
+
+.fw-boldin{
+    font-weight: 700 !important;
+    color: #ff5b03;
 }
 
 .fw-bolder {
