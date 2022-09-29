@@ -153,8 +153,8 @@ button:focus {
 ============================*/
 
 .section {
-    padding-top: 100px;
-    padding-bottom: 100px;
+    padding-top: 70px;
+    padding-bottom: 70px;
     position: relative;
     background-color: #fff;
 }
@@ -221,8 +221,8 @@ button:focus {
 .btn-outline-custom:focus,
 .btn-outline-custom:hover,
 .open>.dropdown-toggle.btn-outline-custom {
-    color: #000;
-    background-color: #fff;
+    color: #ff5b03;
+    background-color:#fff;
     border-color: #fff;
 }
 
