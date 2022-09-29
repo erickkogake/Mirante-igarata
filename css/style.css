@@ -187,6 +187,18 @@ button:focus {
     outline: none !important;
 }
 
+.btn-service {
+    padding: 15px 32px;
+    font-size: 14px;
+    font-weight: 700;
+    transition: all 0.5s;
+    letter-spacing: 0.6px;
+    color: #2b4060;
+    box-shadow: none !important;
+    text-transform: uppercase;
+    outline: none !important;
+}
+
 .btn-round {
     border-radius: 30px;
 }
@@ -224,6 +236,26 @@ button:focus {
     color: #ff5b03;
     background-color:#fff;
     border-color: #fff;
+}
+
+.btn-outline-custom-service {
+    border: 2px solid #2b4060;
+    margin-top: 25px;
+    background-color: #e7e7e7;
+}
+
+.btn-outline-custom-service:hover,
+.btn-outline-custom-service:focus,
+.btn-outline-custom-service:active,
+.btn-outline-custom-service.active,
+.btn-outline-custom-service.focus,
+.btn-outline-custom-service:active,
+.btn-outline-custom-service:focus,
+.btn-outline-custom-service:hover,
+.open>.dropdown-toggle.btn-outline-custom-service {
+    color: #ff5b03;
+    background-color:#fff;
+    border-color: #000;
 }
 
 .bg-overlay {
@@ -434,9 +466,9 @@ button:focus {
 .services-boxes {
     border: 2px solid #e8e8e8;
     box-sizing: content-box;  
-    width: 485px;
-    height: 445px;
-    padding: 200px;
+    max-width:max-content;
+    height: 430px;
+    padding: 100px;
     box-shadow: 0 0 5px 5px #2b4060;
 }
 
