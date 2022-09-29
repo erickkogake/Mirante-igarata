@@ -432,7 +432,12 @@ button:focus {
 =============================*/
 
 .services-boxes {
-    border: 1px solid #e8e8e8;
+    border: 2px solid #e8e8e8;
+    box-sizing: content-box;  
+    width: 485px;
+    height: 445px;
+    padding: 200px;
+    box-shadow: 0 0 5px 5px #2b4060;
 }
 
 .services-boxes .services-boxes-icon i {
