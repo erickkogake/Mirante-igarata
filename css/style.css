@@ -276,14 +276,14 @@ button:focus {
 }
 
 .custom-nav .navbar-nav li a {
-    color: #fff !important;
-    font-size: 15px;
+    color: #ff5b03 !important;
+    font-size: 16px;
     background-color: transparent !important;
     margin: 0 7px;
     letter-spacing: 0.05em;
     line-height: 24px;
     transition: all 0.5s;
-    font-weight: 500;
+    font-weight: bold;
 }
 
 .custom-nav .navbar-brand .logo-light {
@@ -358,6 +358,7 @@ button:focus {
     max-width: 500px;
     line-height: 1.8;
     color: rgba(255, 255, 255, 0.75) !important;
+   
 }
 
 .scroll_down {

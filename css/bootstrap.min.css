@@ -5111,7 +5111,7 @@ fieldset:disabled .btn {
 
 .navbar-dark .navbar-nav .nav-link.active,
 .navbar-dark .navbar-nav .show>.nav-link {
-    color: #fff
+    color: #000
 }
 
 .navbar-dark .navbar-toggler {
@@ -8253,6 +8253,10 @@ fieldset:disabled .btn {
 
 .mb-0 {
     margin-bottom: 0 !important
+}
+
+.mb-0-1 {
+    margin-bottom: -30px !important
 }
 
 .mb-1 {
