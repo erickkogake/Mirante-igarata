@@ -152,6 +152,13 @@ button:focus {
     background-color: #fff;
 }
 
+.section-coments {
+    padding-top: 75px;
+    padding-bottom: 15px;
+    position: relative;
+    background-color: #fff;
+}
+
 .h-100vh {
     height: 100vh;
 }
@@ -276,7 +283,7 @@ button:focus {
 }
 
 .custom-nav .navbar-nav li a {
-    color: #ff5b03 !important;
+    color: #fff !important;
     font-size: 16px;
     background-color: transparent !important;
     margin: 0 7px;
@@ -340,7 +347,7 @@ button:focus {
 =============================*/
 
 .header-bg-img {
-    background-image: url(../images/igarata-sp_photos_v2_faces_x4.jpg);
+    background-image: url(../images/igarata-sp.jpg);
     position: relative;
     background-size: cover;
     background-position: center center;
