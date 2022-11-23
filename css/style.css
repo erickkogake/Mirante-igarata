@@ -361,6 +361,13 @@ button:focus {
     background-position: center center;
 }
 
+.header-bg-img-2 {
+    background-image: url(../images/mirante-img1.jpg);
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+}
+
 .header-content {
     max-width: 800px;
 }
